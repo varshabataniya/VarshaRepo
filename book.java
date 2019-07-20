@@ -19,4 +19,6 @@ public class Book{
 	}
 	public void show(){
 	}
+	public void test(){
+	}
 }
